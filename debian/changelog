@@ -1,3 +1,16 @@
+touch-keyboard (1.4.8) unstable; urgency=medium
+
+  * Add Home and End shortcuts to layouts
+
+ -- Yauhen Kharuzhy <jekhor@gmail.com>  Wed, 04 Feb 2026 00:41:35 +0200
+
+touch-keyboard (1.4.7) unstable; urgency=medium
+
+  * Fix systemd and udev configs paths in CMakeLists.txt to be compatible
+    with various Linux distros.
+
+ -- Yauhen Kharuzhy <jekhor@gmail.com>  Sat, 08 Nov 2025 00:30:36 +0200
+
 touch-keyboard (1.4.6) unstable; urgency=medium
 
   * Set force-feedback magnitude and duration from command-line.
